@@ -15,6 +15,21 @@ The entry data for our brute force sensitivity algorithm are the range of each p
 
 We then executed the Water Detect using each parameter combination for the considered images 
 
+## How to cite
+Tayer et al 2022......
+
+## Tutorial
+
+
+## Supported Formats
+
+
+## Dependencies
+
+```
+
+
+```
 
 ## References
 Cordeiro, M. C. R.; Martinez, J.-M.; Peña-Luque, S. Automatic Water Detection from Multidimensional Hierarchical Clustering for Sentinel-2 Images and a Comparison with Level 2A Processors. Remote Sensing of Environment 2021, 253, 112209. https://doi.org/10.1016/j.rse.2020.112209.
