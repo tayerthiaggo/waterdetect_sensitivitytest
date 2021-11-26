@@ -1,4 +1,4 @@
-# WaterDetect_SensitivityTest
+# Water Detect Sensitivity Test
 
 
 ## References
