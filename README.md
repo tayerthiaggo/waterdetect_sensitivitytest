@@ -15,7 +15,7 @@ The entry data for our brute force sensitivity algorithm are the range of each p
 
 We then executed the Water Detect using each parameter combination for the considered images 
 
-## How to cite
+## How to Cite
 Tayer et al 2022......
 
 ## Tutorial
