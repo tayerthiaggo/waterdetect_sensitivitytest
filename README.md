@@ -2,18 +2,7 @@
 
 ## Synopsis
 
-Mapping water over large areas and multiple periods can be time-consuming if using supervised classifications; hence unsupervised methods that automatically map water features are preferred. If the rivers’ spatial characteristics change markedly over time, e.g., intermittent rivers, the frequency of cloud-free imagery is also important to capture these changes precisely as possible. Moreover, the image spatial resolution determines the size of the rivers that can be analyzed. Cordeiro et al. (2021) proposed an unsupervised automatic algorithm based on multidimensional agglomerative clustering and a naive Bayesian classifier to quickly identify open water over large multispectral satellite datasets. 
-
-a decision-making algorithm to test all possible combinations of input parameters and assess accuracy, determining the most accurate inputs for the water detect algorithm, given a specific image type, is provided
-
-
-In addition to choosing the main water spectral indices and the combination of bands, two other parameters can significantly influence the results of the Water Detect algorithm: the maximum clustering and the regularization of the normalized spectral indices. 
-
-For that, we developed a decision-making algorithm to test all possible combinations within a specified range of input parameters (i.e., spectral indices, maximum clustering, and regularization) and assess accuracy, determining the most accurate inputs for the Water Detect for each specific case, and producing a most-to-less accuracy ranking. 
-
-The entry data for our brute force sensitivity algorithm are the range of each parameter given by lowest, highest and step values, the ground truth raster to be used in the accuracy assessment, and the images to be classified.
-
-We then executed the Water Detect using each parameter combination for the considered images 
+We developed a sensitivity analysis algorithm to test all possible combinations of inputs parameters (i.e., spectral indices, maximum clustering, and regularization) for Water Detect within a specified range and assessed accuracy, determining the most accurate inputs for each specific case, and producing a most-to-least accuracy ranking. The developed sensitivity algorithm has four main inputs: 1) the Water Detect default initialization file as per Cordeiro, Martinez, and Peña-Luque (2021); 2) the range of maximum clustering and regularization given by lowest, highest, and step values; 3) the images to be tested, and 4) the ground truth raster to be used in the accuracy assessment. 
 
 ## How to Cite
 Tayer et al 2022......
