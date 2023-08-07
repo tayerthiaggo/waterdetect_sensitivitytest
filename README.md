@@ -21,6 +21,6 @@ Tayer T.C., Douglas M.M., Cordeiro M.C.R., Tayer A.D.N., Callow J.N., Beesley L.
 ```
 
 ## References
-Tayer et al 2022 (in review)
+Tayer T.C., Douglas M.M., Cordeiro M.C.R., Tayer A.D.N., Callow J.N., Beesley L. & McFarlane D. (2023) Improving the accuracy of the Water Detect algorithm using Sentinel-2, Planetscope and sharpened imagery: a case study in an intermittent river, GIScience & Remote Sensing, 60:1, DOI: 10.1080/15481603.2023.2168676
 
 Cordeiro, M. C. R.; Martinez, J.-M.; Peña-Luque, S. Automatic Water Detection from Multidimensional Hierarchical Clustering for Sentinel-2 Images and a Comparison with Level 2A Processors. Remote Sensing of Environment 2021, 253, 112209. https://doi.org/10.1016/j.rse.2020.112209.
